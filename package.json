@@ -1,33 +1,9 @@
 {
-  "_from": "react-native-ratings@^7.3.0",
-  "_id": "react-native-ratings@7.3.0",
-  "_inBundle": false,
-  "_integrity": "sha512-NCDIkmrVPnxPzP9zKdlcNpa2rPs3Hiv2qXsojUr3FpwbANWfgYE+jjGSSCBcS3vpXndTjhoaTGFDnybnUSFPFA==",
-  "_location": "/react-native-ratings",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "react-native-ratings@^7.3.0",
-    "name": "react-native-ratings",
-    "escapedName": "react-native-ratings",
-    "rawSpec": "^7.3.0",
-    "saveSpec": null,
-    "fetchSpec": "^7.3.0"
-  },
-  "_requiredBy": [
-    "/",
-    "/react-native-elements2"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-native-ratings/-/react-native-ratings-7.3.0.tgz",
-  "_shasum": "32e11e4ed944ba8adbbc995d601df3f131619b6f",
-  "_spec": "react-native-ratings@^7.3.0",
-  "_where": "/Users/mohsen/Desktop/Robosto/app-customer",
   "author": {
-    "name": "Monte Thakkar"
+    "name": "robosto"
   },
   "bugs": {
-    "url": "https://github.com/Monte9/react-native-ratings/issues"
+    "url": "https://github.com/robosto/react-native-ratings/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -43,7 +19,7 @@
     "react-dom": "16.9.0",
     "react-native": "^0.61.4"
   },
-  "homepage": "https://github.com/Monte9/react-native-ratings#readme",
+  "homepage": "https://github.com/robosto/react-native-ratings#readme",
   "keywords": [
     "react-native",
     "reactjs",
@@ -57,14 +33,14 @@
   ],
   "license": "MIT",
   "main": "./src/index.js",
-  "name": "react-native-ratings",
+  "name": "robosto-react-native-ratings",
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Monte9/react-native-ratings.git"
+    "url": "git+ssh://git@github.com/robosto/react-native-ratings.git"
   },
   "scripts": {
     "clean-install": "rm -rf node_modules && yarn",
